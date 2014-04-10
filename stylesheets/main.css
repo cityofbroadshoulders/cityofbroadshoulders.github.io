@@ -137,6 +137,13 @@ p {
   width: 90%;
 }
 
+.extra-small-sponsors {
+  display: block;
+  margin: 1rem auto 0;
+  max-width: 300px;
+  width: 90%;
+}
+
 .sponsors-logo {
   display: block;
   margin: 1.875rem auto 0;
@@ -433,6 +440,13 @@ header {
   font-weight: 700;
 }
 
+
+.small_sub_headline {
+  font-family: "futura-pt";
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
 /* =========================================
  * Typography
  * ========================================= */
@@ -535,6 +549,10 @@ header {
 
 .reverse-padding {
   padding-left: 1rem;
+}
+
+.no-margin-bottom {
+  margin-bottom: 0;
 }
 
 /* =========================================
